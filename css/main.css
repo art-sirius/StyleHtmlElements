@@ -1,0 +1,21 @@
+.for-botton {
+  text-align: center;
+  padding: 50px;
+}
+/* Button */
+.btn-za {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  padding: 10px 20px;
+  transition-duration: 0.2s;
+  background-color: #1d93d0;
+}
+.btn-za:hover {
+  background-color: #3cabe4;
+  cursor: pointer;
+}
+.btn-za:active {
+  background-color: #1a83ba;
+}
